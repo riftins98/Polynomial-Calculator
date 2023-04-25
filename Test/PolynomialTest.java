@@ -1,8 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 public class PolynomialTest {
     private Polynomial polynomialA = Polynomial.build("1 -2 3");
     private Polynomial polynomialB = Polynomial.build("0 1 2 3");

@@ -1,8 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 public class ScalarRationalTest {
     ScalarInteger five = new ScalarInteger(5);
     ScalarInteger minusEight = new ScalarInteger(-8);
